@@ -1,4 +1,4 @@
-def registarr_habitos ():
+def registar_habitos ():
     '''
     registrar_habitos
     registra cuales actividades hace el usuario
