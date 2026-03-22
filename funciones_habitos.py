@@ -39,6 +39,7 @@ def analizar_habitos (lista):
             diccio_actividades[actividad] = 1
         else:
             diccio_actividades[actividad] = +1 
+            diccio_actividades[actividad] += 1 
     return diccio_actividades
 
 
