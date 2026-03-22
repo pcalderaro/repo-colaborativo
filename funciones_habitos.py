@@ -38,10 +38,9 @@ def analizar_habitos (lista):
         if actividad not in diccio_actividades:
             diccio_actividades[actividad] = 1
         else:
-<<<<<<< HEAD
+
             diccio_actividades[actividad] = +1 
-=======
->>>>>>> 00d056940f6f0fe3512745693b480e518933a8c0
+
             diccio_actividades[actividad] += 1 
     return diccio_actividades
 
